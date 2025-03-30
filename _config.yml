@@ -1,0 +1,5 @@
+title: 我的日記
+author: Aiden
+description: 記錄生活的點點滴滴
+theme: default
+permalink: :year/:month/:day/:title/
